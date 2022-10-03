@@ -1,0 +1,103 @@
+   0 cd /home
+   1 mkdir animals
+   2 cd animals
+   3 mkdir dogs cats fish
+   4 ls
+   5 mkdir dogs/Pluto cats/Garfield
+   6 mkdir fish/Nemo
+   7 ls
+   8 pwd
+   9 ls fish
+  10 pwd
+  11 cd /home
+  12 pwd
+  13 cd Humans
+  14 mkdir Humans
+  15 ls
+  16 mkdir tmp/Adam
+  17 cd /tmp
+  18 mkdir Adam
+  19 ls
+  20 cp Adam
+  21 /home
+  22 ls
+  23 cd /home
+  24 ls
+  25 cd Humans
+  26 ls
+  27 mv Adam
+  28 -n
+  29 ls
+  30 cd /home
+  31 cd tmp
+  32 mkdir /tmp
+  33 cd /tmp
+  34 ls
+  35 cp Adam
+  36 cp Adam-a
+  37 -a 
+  38 cp Adam -a
+  39 dpR
+  40 a
+  41 ls
+  42 sudo apt-get install x clip
+  43 sudo apt-get install xclip
+  44 ls
+  45 cp tmp/Adam Humans/
+  46 cd tmp
+  47 cd /tmp
+  48 ls
+  49 cp tmp/Adam Humans/
+  50 cd /home
+  51 clear
+  52 ls
+  53 cd Humans
+  54 ls
+  55 cd home
+  56 cd /home
+  57 mkdir tmp
+  58 ls
+  59 cd tmp
+  60 mkdir Adam
+  61 ls
+  62 cp tmp/Adam Humans/
+  63 cp tmp/Adam home/Humans/
+  64 cd /home
+  65 ls
+  66 cd tmp
+  67 ls
+  68 cd/home
+  69 cd home
+  70 clear
+  71 cd /home
+  72 ls
+  73 cp tmp/Adam Humans/
+  74 cd Humans
+  75 ls
+  76 cd home
+  77 ce home
+  78 cd home
+  79 cd /home
+  80 clear
+  81 ls
+  82 ls tmp/
+  83 clear
+  84 ls
+  85 cp tmp/Adam Humans/
+  86 -r tmp/Adam Humans/
+  87 cp -r tmp/Adam Humans/
+  88 ls
+  89 cd Humans
+  90 ls
+  91 cd /home
+  92 ls
+  93 cd tmp
+  94 ls
+  95 cd /home
+  96 ls
+  97 cd tmp
+  98 mkdir evA
+  99 ls
+ 100 history
+ 101 export_file history.txt
+ 102 history > history.txt
